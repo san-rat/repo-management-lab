@@ -1,0 +1,1 @@
+This repository contains lab exercises for learning Git repository management, branching and version control workflows.
